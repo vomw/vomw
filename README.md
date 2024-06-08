@@ -1,1 +1,1 @@
-<img src="https://github.com/vomw/vomw/blob/main/cat.gif?raw=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=vomw&count_private=true&show_icons=true&include_all_commits=true&hide_rank=false&hide_title=false&theme=ambient_gradient&card_width=300" align="center" idth=460 height=180/>
